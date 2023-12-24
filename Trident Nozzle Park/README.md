@@ -3,7 +3,7 @@
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/5fafd403-1bd9-4efd-8809-596815707b68)
 
 
-This is a simple nozzle park that mounts to the rear gantry of a Trident. Just cut up a small bit of silicone (I used a common silicone wristband, but silicone egg moulds or similar should work as well) and wedge it into the holder.
+This is a simple nozzle park that mounts to the rear gantry of a Trident. Just cut up a small bit of silicone (I used a common silicone wristband, but silicone egg ring or similar should work as well) and wedge it into the holder.
 
 The mount is adjustable so it can both clear the bed and be at the correct hight for the nozzle.
 
