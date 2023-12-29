@@ -14,3 +14,10 @@ I've also included my NOZZLE_PARK macro. It assumes the park location is at the 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/4519a3b4-95c6-4b4c-aba0-942e97ccf15c)
 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/f349eca1-f59b-4e35-a3f3-a5d296f3b0c0)
+
+
+## Appendum
+
+The non-purge-bucket mount may also fit on a v2.4. I've only tested in CAD, not in person, but it looks like it should fit on the left side of the gantry (but not all the way to the left, it needs to be middle-ish so it clears the bed extrusion)
+
+![image](https://github.com/Esoterical/PrinterMods/assets/124253477/143cd000-383a-46fa-bb43-e7f360c22f73)
