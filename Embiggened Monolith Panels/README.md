@@ -17,3 +17,7 @@ The edging foam was 6mm thick 18mm wide closed-cell foam (seems the same as the 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/2fa532c8-cb89-455c-88bd-842de2873f2b)
 
 I covered the entire PC/Acrylic panel edge-to-edge in the main 10mm foam, then stuck the 6mm foam edging to the 10mm foam so there was a total of 16mm of foam along the edges where the panel will be touching the aluminium extrusion.
+
+During assembly I found that dipping the "back" face of the clips in acetone then installing the clip into the frame allowed it to acetone-weld to the frame making a crazy strong bond. Didn't need much, just to make that highlighted face wet with acetone, doesn't need to go up the sides or anything else. (Obviously, this is if using ABS for the parts)
+
+![image](https://github.com/Esoterical/PrinterMods/assets/124253477/d24d6555-2528-4825-ade0-eff5412b22bd)
