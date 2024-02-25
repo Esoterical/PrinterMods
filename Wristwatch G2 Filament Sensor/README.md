@@ -8,7 +8,7 @@ The only modified part is the Front_Body. The Rear_plate and Tension_Arm are the
 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/cac53a45-8281-41b1-82ad-b014a716cc98)
 
-There is also a version (in the CAD) that has an extra "apron" mounting point and fits on the Xol G2SA hotend mount (not the WWG2 mount). I only did this because I was changing from G2SA to WWG2 and didn't want to change any other parts of the Xol.
+There is also a version that has an extra "apron" mounting point and fits on the Xol G2SA hotend mount (not the WWG2 mount). I only did this because I was changing from G2SA to WWG2 and didn't want to change any other parts of the Xol.
 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/0a522695-258b-4d53-a7c8-d374dda53685)
 
