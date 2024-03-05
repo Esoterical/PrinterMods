@@ -11,7 +11,7 @@ There is an "SP13 Template" in the CAD which has red exclusion zones above and b
 
 I've included a 3-legged EBB36 mount that fits onto a customised Wristwatch G2 Extruder as I wanted the extra rigidity of the thrid mouting point but didn't want to use the same screws that mount the motor.
 
-![image](https://github.com/Esoterical/PrinterMods/assets/124253477/776fb630-62da-4366-8875-f0995d7db952)
+![image](https://github.com/Esoterical/PrinterMods/assets/124253477/d70c22f4-1c9e-42df-b716-80c5f2f61bf7)
 
 
 The most "finalised" model here is the mount for the Trident gantry, replacing the stock cable cover.
