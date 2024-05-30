@@ -1,4 +1,4 @@
-# Dual Pocketwatch
+# Dual Pocketwatch - Old edition
 
 This is a design by @HartK which I modified to have pre and post stepper filament sensors (using D2F switches and 4mm ball bearings) and PC4M6 fittings on the input and output.
 If you have two BMG extruder gear sets, and two nema14 pancake steppers (so the same stuff that is in a Clockwork2 or Sherpa Mini or similar extruders) then this gives a nice compact package.
