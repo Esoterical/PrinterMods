@@ -35,12 +35,16 @@ So far I have uploaded:
 
 **G2E Dual Sensor**
 
+Modified from https://github.com/JaredC01/Galileo2
+
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/b7d69241-3f29-4449-8192-8877770913dc)
 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/24b7ef14-7792-46f6-9fc0-1551c54a8712)
 
 
 **Clockwork 2 Dual Sensor**
+
+Modified from https://github.com/VoronDesign/Voron-Stealthburner
 
 (The CW2 also has a thread for a PC4M6 fitting in the top, I don't like the default option of no bowden retention mechanism. Modified Latch to clear the PC4M6 is also included)
 
