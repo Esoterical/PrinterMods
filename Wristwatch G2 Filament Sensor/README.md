@@ -1,3 +1,9 @@
+# Probably don't use this mod!
+
+Before continuing, yes this mod does work fine, but ByThorsThunder made an altogether better version that uses 5.5mm balls (like what the ERCF team uses). You can find it at https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_G2_Dual_Filament_Sensor
+
+There is no reason to use my version over Thor's unless you are stuck with only having 4mm ball bearings.
+
 # Filament Sensor version of WWG2
 
 Original WristWatch G2 by Tetsu from https://github.com/tetsu97/WristWatch-G2-Extruder 

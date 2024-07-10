@@ -1,11 +1,13 @@
-# Dual Pocketwatch
+# Dual Nightwatch
 
-This is a design by @HartK which I modified to have pre and post stepper filament sensors (using D2F switches and 4mm ball bearings) and PC4M6 fittings on the input and output.
-If you have two BMG extruder gear sets, and two nema14 pancake steppers (so the same stuff that is in a Clockwork2 or Sherpa Mini or similar extruders) then this gives a nice compact package.
+I had a version of the Dual Pocketwatch by @HartK that I modified for extra filament sensors. It worked, but was a typical Esoterical hack job. If you need it (or if you only have 4mm ball bearings for the filament sensor) I've moved it to the Archive folder.
 
-![image](https://github.com/Esoterical/PrinterMods/assets/124253477/806b4fba-1ff7-48e9-b40c-6c8bc6a0963b)
+The "New" Dual Nightwatch, designed by someone with skill (@HartK himself) has everything my old one did but better. It uses 5.5mm ball bearings for a smoother filament actuation path as well as other small design tweaks.
 
-![image](https://github.com/Esoterical/PrinterMods/assets/124253477/8b630bb9-7181-45e2-b908-ac183e8d17c7)
+[You can find it on his Github](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch)
+
+![image](https://github.com/Esoterical/PrinterMods/assets/124253477/d8cef8b4-7c87-4a6c-9b53-f449312e5b59)
+
 
 # Splitter
 
