@@ -6,7 +6,8 @@ with the idea to help with insulation (compared to stock acrylic panels) and to 
 
 It uses the stock front door panel, and stock magnet door latch things, but everything else is printed.
 
-*picture*
+![image](https://github.com/user-attachments/assets/4c42d19e-edc7-4dd4-bdf7-1e5e30a15c41)
+
 
 
 The side and rear panels all clip on to the extrusions using 1515-sized clips. The front door hinges on a pair of m3 screws that are screwed in to
@@ -17,7 +18,8 @@ For the tophat, there are clip-based top and side panels if you use the v0.2 ext
 There is also an entirely printed tophat frame that uses clip-on side and rear panels, but 6x3mm magnets to hold the front panel and lid on.
 This allows for no "beam" across the top front, so with the door open and the magnet lid/front removed you have full uninterrupted access to the toolhead.
 
-*picture*
+![image](https://github.com/user-attachments/assets/f68a0706-2aa0-4f0a-a97a-eab14245b9a7)
+
 
 The widened skirts aren't necessary, the panels will still fit fine with the stock v0 skirts, but I liked the look of the "stanced-out" skirts and 
 it also let me have more room underneath for a larger power supply.
