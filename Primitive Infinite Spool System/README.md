@@ -1,4 +1,4 @@
-# Primitive Infinite Spool System (PISS)
+# Primitive Infinite Spool System
 
 **This is a work in progress, stuff will change or get added/removed at random**
 
