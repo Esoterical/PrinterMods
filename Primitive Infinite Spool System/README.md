@@ -21,6 +21,6 @@ I've also got a small collection of [dual-filament-sensor extruder designes](<ht
 
 But no reason you can use standalone "just a microswitch" filament sensors placed at spots along the bowden path. Even with the final extruder the system should work fine with only a "pre-extruder" sensor which can be another standalone one just stuck on the bowden.
 
-For the encoder_sensor, something like a BTT SFS or the ERCF encoder sensors would work (I use the [ERCFv1 encoder sensor](https://www.printables.com/model/389504-ercf-smart-filament-motion-sensor) or a Binky would work), but again you can omit this entirely if you like. You just lose "jam" detection.
+For the encoder_sensor, something like a BTT SFS or the ERCF encoder sensors would work, but again you can omit this entirely if you like. You just lose "jam" detection.
 
 ![image](https://github.com/Esoterical/PrinterMods/assets/124253477/c60e5484-5af5-461d-abd2-52978d4fe428)
