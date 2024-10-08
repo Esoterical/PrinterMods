@@ -8,6 +8,28 @@ The [gcode_macro _FILAMENT_VARS] macro is for storing variables that different m
 
 The hardware section is for filling out your pins and junk for *your* specific hardware. The ones in the included .cfg is what my printer is running, yours will be different.
 
+## Your print_start macro
+
+It's worth adding a couple of things to your print_start macro to allow the infinite spool system to run smoothly.
+
+I like to have infspool *disabled* by default. To ensure this I have the following near the top of my print_start macro:
+
+`SET_GCODE_VARIABLE MACRO=_FILAMENT_VARS VARIABLE=infinitespool VALUE=0`
+
+Then, as I usually want infinite spool when printing ABS I have this further down (in my "if filament is ABS" section):
+```
+ {% if params.FILAMENT_TYPE == 'ABS' %}
+    RESPOND MSG="ABS Detected"
+    {% if printer['filament_switch_sensor left_pre_stepper'].filament_detected and printer['filament_switch_sensor right_pre_stepper'].filament_detected %}
+      INFINITE_SPOOL_ENABLE
+    {% endif %}
+  {% endif %}
+```
+which will enable infinite spool *if* the material is ABS and *if* it detects filament loaded in both sides.
+
+You can always enable infinite spool during a print by running `TOGGLE_INFINITE_SPOOL_MODE` macro (and making sure that filament is loaded into both sides and triggering the pre-stepper filament sensors).
+
+
 # Macros
 
 The macros section is where all the magic happens. A lot of the macros there don't need to be touched as long as you are using the same number/type of sensors as outlined on the [main page](.).
