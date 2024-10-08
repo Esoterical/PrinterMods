@@ -12,9 +12,15 @@ The hardware section is for filling out your pins and junk for *your* specific h
 
 It's worth adding a couple of things to your print_start macro to allow the infinite spool system to run smoothly.
 
-I like to have infspool *disabled* by default. To ensure this I have the following near the top of my print_start macro:
+Near the top of my print_start macro I like to have a `SET_GCODE_VARIABLE MACRO=_FILAMENT_VARS VARIABLE=infinitespool VALUE=0` so the infintite spool system is
+disabled *by default*, then I have a `SELECT_ACTIVE_SPOOL`, a `LOAD_FILAMENT`, and a `HARD_CHECK_FILAMENT_LOADED` to make sure a spool is active and the filament is
+at the extruder.
+The HARD_CHECK will cancel the print if filament isn't detected by the post_extruder sensor.
 
-`SET_GCODE_VARIABLE MACRO=_FILAMENT_VARS VARIABLE=infinitespool VALUE=0`
+![image](https://github.com/user-attachments/assets/41eb758c-2239-40f6-9482-afed015a1207)
+
+
+
 
 Then, as I usually want infinite spool when printing ABS I have this further down (in my "if filament is ABS" section):
 ```
